@@ -1,10 +1,10 @@
 {
-  "name": "Test"
-  "description": "Test"
+  "name": "FurbotPackage"
+  "description": "It's like a package, but more furry."
   "version": "0.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node bot.js"
   },
   "dependencies": {
     "discord.js": "11.1.0",
